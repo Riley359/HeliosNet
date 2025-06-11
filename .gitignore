@@ -1,0 +1,21 @@
+# Rust
+target/
+
+# Environment variables
+.env
+.env.local
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# IDE files
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dependencies
+node_modules/
